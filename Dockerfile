@@ -1,4 +1,4 @@
-FROM yelasmahesh/practiseimage:latest
+FROM yelasmahesh/mahesh-practise:latest
 WORKDIR /code
 COPY pom.xml /code/
 COPY src/main/java/com/yelasmahesh/main /code/src/main
